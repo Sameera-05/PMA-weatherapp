@@ -45,7 +45,7 @@ bash :
 git clone https://github.com/Sameera-05/PMA-weatherapp.git 
 cd PMA-weatherapp
 
-###2. Start the Backend Server
+### 2. Start the Backend Server
 bash: 
 cd server
 npm install
@@ -54,7 +54,7 @@ node index.js
 npx nodemon index.js
 Server will run at http://localhost:5000.
 
-###3. Start the Frontend
+### 3. Start the Frontend
 cd ../client
 npm install
 npm run dev
