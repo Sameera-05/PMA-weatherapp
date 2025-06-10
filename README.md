@@ -27,16 +27,6 @@ This is a full-stack weather web application built as part of the **Product Mana
 
 ---
 
-## 📦 Project Structure
-
-weather-app/
-├── client/ # React frontend
-├── server/ # Node.js backend
-├── database.sqlite # SQLite database
-└── README.md
-
----
-
 ## ▶️ How to Run the Project Locally
 
 ### 1. Clone the Repository
